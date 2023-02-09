@@ -1,0 +1,2 @@
+# PatikaJavaProjects
+ Patika egitim projeleri
